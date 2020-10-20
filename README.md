@@ -9,16 +9,13 @@ https://nbviewer.jupyter.org/github/gfeuillet1/_NSI_/
 Pour une utilisation interactive des fichiers Jupyter Notebook de ce dépôt :
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfeuillet1/_NSI_/)
-
-ou
-
+   ou
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/gfeuillet1/_NSI_/)
 
 L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
-
 ![](https://github.com/gfeuillet1/_NSI_/ccbysa.png)
  
- ### Sommaire :
+### Sommaire :
  * [Première](#première)</br>
  * [Terminale](#terminale)</br>
  
