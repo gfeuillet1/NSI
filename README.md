@@ -4,8 +4,8 @@
  Les documents seront mis en ligne au fur et à mesure de leur création ou de leur finalisation.
  </br>
  </br>
- [Première](#premiere)</br>
- [Terminale](#terminale)</br>
+ * [Première](#premiere)</br>
+ * [Terminale](#terminale)</br>
  
  
  
