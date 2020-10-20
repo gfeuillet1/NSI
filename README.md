@@ -5,8 +5,8 @@
  
 ## **Première**
 * 01 - Introduction Python
- * 01_Introduction_Python_Bases
- * 02_Introduction_Python_Boucles
+  * 01_Introduction_Python_Bases
+  * 02_Introduction_Python_Boucles
 
 * 02 - Types Construits
- * 01_Listes_Python
+  * 01_Listes_Python
