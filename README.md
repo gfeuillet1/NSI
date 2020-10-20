@@ -16,7 +16,7 @@ Pour une utilisation interactive des fichiers Jupyter Notebook de ce dépôt :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfeuillet1/NSI/main/)
 
 L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
-![](https://github.com/gfeuillet1/NSI/ccbysa.png)
+![](https://github.com/gfeuillet1/NSI/tree/main/ccbysa.png)
 
  </br>
  
