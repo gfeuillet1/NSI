@@ -4,13 +4,13 @@
  </br>
  
 Pour la consultation simple des fichiers Jupyter Notebook de ce dépôt, il est préférable de passer par :
-https://nbviewer.jupyter.org/github/gfeuillet1/NSI/
+https://nbviewer.jupyter.org/github/gfeuillet1/NSI/main/
 
 Pour une utilisation interactive des fichiers Jupyter Notebook de ce dépôt :
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfeuillet1/NSI/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfeuillet1/NSI/main/)
    ou
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/gfeuillet1/NSI/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/gfeuillet1/NSI/main/)
 
 L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
 ![](https://github.com/gfeuillet1/NSI/ccbysa.png)
