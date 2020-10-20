@@ -10,7 +10,7 @@
 </br>
 
 Pour la consultation simple des fichiers Jupyter Notebook de ce dépôt, il est préférable de passer par :
-https://nbviewer.jupyter.org/github/gfeuillet1/NSI/main/ [ne fonctionne pas à l'heure actuelle]
+https://nbviewer.jupyter.org/github/gfeuillet1/NSI/tree/main/ [ne fonctionne pas à l'heure actuelle]
 
 Pour une utilisation interactive des fichiers Jupyter Notebook de ce dépôt :
 
