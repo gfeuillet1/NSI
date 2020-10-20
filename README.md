@@ -3,9 +3,9 @@
  Les documents seront mis en ligne au fur et à mesure de leur création ou de leur finalisation.
  </br>
 
-Pour la consultation simple des fichiers Jupyter Notebook de ce dépôt, il est préférable de passer par : 
+ ** Pour la consultation simple des fichiers Jupyter Notebook de ce dépôt, il est préférable de passer par : 
 [<img src=https://nbviewer.jupyter.org/static/img/nav_logo.svg width="100" height="50">](https://nbviewer.jupyter.org/github/gfeuillet1/NSI/tree/main/) </br>
-Pour une utilisation interactive des fichiers Jupyter Notebook de ce dépôt :
+ ** Pour une utilisation interactive des fichiers Jupyter Notebook de ce dépôt :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfeuillet1/NSI/main/) </br>
 L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
 ![](https://github.com/gfeuillet1/NSI/blob/main/ccbysa.png)
