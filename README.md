@@ -2,7 +2,10 @@
  Cours de NSI au lycée F.Truffaut de Beauvais (Oise) </br>
  </br>
  Les documents seront mis en ligne au fur et à mesure de leur création ou de leur finalisation.
- [Première](#title)
+ \n
+ [Première](#premiere) \n
+ [Terminale](#terminale)
+ 
  
  
 ## **Première**
@@ -12,3 +15,8 @@
 
 * **02 - Types Construits**
   * 01_Listes_Python
+  
+## **Terminale**
+* **POO**
+* **Récursivité**
+* **Listes, piles, Files**
