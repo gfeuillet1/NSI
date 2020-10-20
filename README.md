@@ -4,7 +4,7 @@
  </br>
  
  ### Sommaire :
- * [Première](#premiere)</br>
+ * [Première](#première)</br>
  * [Terminale](#terminale)</br>
  
  </br>
