@@ -1,14 +1,13 @@
 # <center>**NSI**</center>
  Cours de NSI au lycée F.Truffaut de Beauvais (Oise) </br>
- </br>
  Les documents seront mis en ligne au fur et à mesure de leur création ou de leur finalisation.
  </br>
- </br>
+ 
  ### Sommaire :
  * [Première](#premiere)</br>
  * [Terminale](#terminale)</br>
  
- 
+ </br>
  
 ## **Première**
 * **[01 - Introduction Python](https://github.com/gfeuillet1/_NSI_/tree/main/Premi%C3%A8re/01_Introduction_Python)** 
