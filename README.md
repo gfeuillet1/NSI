@@ -14,7 +14,7 @@
   * 01_Introduction_Python_Bases
   * 02_Introduction_Python_Boucles
 
-* **02 - Types Construits**
+* **[02 - Types Construits](https://github.com/gfeuillet1/_NSI_/tree/main/Premi%C3%A8re/02_Types_Construits)**
   * 01_Listes_Python
   
 </br>
