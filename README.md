@@ -10,7 +10,7 @@
  
  
 ## **Première**
-* **[01 - Introduction Python]** (#/Première/01_Introduction_Python)
+* **[01 - Introduction Python] (#/Première/01_Introduction_Python)** 
   * 01_Introduction_Python_Bases
   * 02_Introduction_Python_Boucles
 
