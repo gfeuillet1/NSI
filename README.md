@@ -4,11 +4,11 @@
  </br>
  
 Pour la consultation simple des fichiers Jupyter Notebook de ce dépôt, il est préférable de passer par :
-https://nbviewer.jupyter.org/github/gfeuillet1/_NSI_/tree/master/
+https://nbviewer.jupyter.org/github/gfeuillet1/_NSI_/
 
 Pour une utilisation interactive des fichiers Jupyter Notebook de ce dépôt :
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfeuillet1/_NSI_/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfeuillet1/_NSI_/)
 
 ou
 
